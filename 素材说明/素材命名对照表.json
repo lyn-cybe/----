@@ -1,0 +1,586 @@
+[
+  {
+    "kind": "原图",
+    "page": "21A",
+    "scene": "蓝白脸谱山顶展示",
+    "original_path": "原图/0067a1e37367cda205b800160d7ce038.png",
+    "renamed_path": "原图/page-21-A-blue-reveal.png",
+    "sha256": "d64d28fe43a246decab0f04e497eaf6e71e899d9e5a210c40bd2e3c22b08013b"
+  },
+  {
+    "kind": "原图",
+    "page": "25A",
+    "scene": "蓝白面具登台",
+    "original_path": "原图/05ea0d9de14379c675cd2def2649a790.png",
+    "renamed_path": "原图/page-25-A-blue-stage.png",
+    "sha256": "12cf67f5fd99a8a1387e3a43ef3332ce436869b5c3eb108589550e6632c00577"
+  },
+  {
+    "kind": "原图",
+    "page": "21B",
+    "scene": "青黑脸谱山顶展示",
+    "original_path": "原图/0abcddae06efcabe381d995d5d222bd0.png",
+    "renamed_path": "原图/page-21-B-black-reveal.png",
+    "sha256": "ee0ebb3f3217ef0f4d707af18313737438f775e2d2217251910b72bc6dcaa448"
+  },
+  {
+    "kind": "原图",
+    "page": "26",
+    "scene": "回到工坊；构图与开场不同，空位需明确定位",
+    "original_path": "原图/0d996d1a3e75679ff294cb1ee3000a93.png",
+    "renamed_path": "原图/page-26-workshop-return.png",
+    "sha256": "2a47c86ad01778490706cb92b9802b0c2f84e61ef7b5108074237c4680e493ad"
+  },
+  {
+    "kind": "原图",
+    "page": "06",
+    "scene": "穿上新鞋",
+    "original_path": "原图/0fe57a2cc6649afbafdc1342b3391e10.png",
+    "renamed_path": "原图/page-06-new-shoes.png",
+    "sha256": "015ad54f6353cc569a168d9e1852b577accaba45a85a2b8790b5b4d6b31d8b53"
+  },
+  {
+    "kind": "原图",
+    "page": "15",
+    "scene": "船上纹样特写；画面未明确呈现可点击倒影",
+    "original_path": "原图/13991445b04187896c71498756181cba.png",
+    "renamed_path": "原图/page-15-pattern-detail.png",
+    "sha256": "b2f5755cbd961a24c286eef1ffa8595a077f0337480ad9bb4cb695f7db2688fc"
+  },
+  {
+    "kind": "原图",
+    "page": "23B",
+    "scene": "青黑面具交接",
+    "original_path": "原图/16334fd85cd3742d7c7020d4704e7ecd.png",
+    "renamed_path": "原图/page-23-B-black-handover.png",
+    "sha256": "294c0a26341c39288b4ffd8bfd4a746ea6dfc5856149a5ab70c76aba89606df9"
+  },
+  {
+    "kind": "原图",
+    "page": "02",
+    "scene": "工坊人形；静态人形，不代表完整变身过程",
+    "original_path": "原图/2cb453b509cb3ef154b219d721811974.png",
+    "renamed_path": "原图/page-02-human-form.png",
+    "sha256": "a98eb07fee76fc2fc192256138e0a2e3da7d63e4f854845d2f1b97f5a76e2064"
+  },
+  {
+    "kind": "原图",
+    "page": "13",
+    "scene": "遇见先锋小姐",
+    "original_path": "原图/32e379d81f7205f37587c63841b31434.png",
+    "renamed_path": "原图/page-13-pioneer.png",
+    "sha256": "c5612fc90843122e4e8e4a0690a77e97a1311c2ce00743d37301fc15bdf4628c"
+  },
+  {
+    "kind": "原图",
+    "page": "07",
+    "scene": "遇见开路将军",
+    "original_path": "原图/3ab83aef4f598f7fa933ac629c4ca8c8.png",
+    "renamed_path": "原图/page-07-general.png",
+    "sha256": "f85bb5d13e4fc6da758d6396f005af2f3327f1d82d96cc731edd9796265e10eb"
+  },
+  {
+    "kind": "原图",
+    "page": "25B",
+    "scene": "青黑面具登台",
+    "original_path": "原图/4334a545537f529f112631b32d8f4e81.png",
+    "renamed_path": "原图/page-25-B-black-stage.png",
+    "sha256": "5988dd03db1c6fa006768487879e527cd4d6f9fb7fbcb2abf3705e56fa31d13a"
+  },
+  {
+    "kind": "原图",
+    "page": "03",
+    "scene": "出发",
+    "original_path": "原图/43a3cf7524f8f2444f6505e2c0796497.png",
+    "renamed_path": "原图/page-03-departure.png",
+    "sha256": "93ddaa3ac05d4d217573dbf5478f219e1a6309be0f00d1370258347aef9f167d"
+  },
+  {
+    "kind": "原图",
+    "page": "17",
+    "scene": "发现被困松鼠",
+    "original_path": "原图/43fb3beca2119ca866de3373df008410.png",
+    "renamed_path": "原图/page-17-squirrel-trouble.png",
+    "sha256": "8913a66984b9c7e5c4dff04434d93bc5246416c76e364118c744b608118a876f"
+  },
+  {
+    "kind": "原图",
+    "page": "04",
+    "scene": "遇见唐氏太婆",
+    "original_path": "原图/4867530dd85ffe79b6858c476c5e4d8d.png",
+    "renamed_path": "原图/page-04-grandma.png",
+    "sha256": "022a6177aebb9504c216fcb91ff45532e092df001e0a3149547d698779d2d874"
+  },
+  {
+    "kind": "原图",
+    "page": "18",
+    "scene": "树枝救松鼠",
+    "original_path": "原图/627dd83bd54f0a722f80797373899e44.png",
+    "renamed_path": "原图/page-18-squirrel-rescue.png",
+    "sha256": "d29ff8cab4bb26fdb39dd6e6db7111dd182b94d2dc60ed5ffc9a81bc3355d6d2"
+  },
+  {
+    "kind": "原图",
+    "page": "24B",
+    "scene": "戴青黑面具转圈",
+    "original_path": "原图/722161086705a26212e38c923756bf47.png",
+    "renamed_path": "原图/page-24-B-black-dance.png",
+    "sha256": "657229916dc211901b8f0571c0af4a5c154f2bcc8e949ffb3817833f0d57c8f7"
+  },
+  {
+    "kind": "原图",
+    "page": "24A",
+    "scene": "戴蓝白面具转圈",
+    "original_path": "原图/780e7671c0737f3032e9b28ddece52ff.png",
+    "renamed_path": "原图/page-24-A-blue-dance.png",
+    "sha256": "da094a3120b57abee6acc728e6c3e2007552dd63dcd97876d4448211b7b9fb48"
+  },
+  {
+    "kind": "原图",
+    "page": "24C",
+    "scene": "戴红金面具转圈",
+    "original_path": "原图/7ad93de6463ab3d1f87ad3cbf99d2f23.png",
+    "renamed_path": "原图/page-24-C-red-dance.png",
+    "sha256": "e5030674e6cb408d9eb213636c0deb5ae64ac83c30c91e6007a31c84da9c3955"
+  },
+  {
+    "kind": "原图",
+    "page": "22A",
+    "scene": "工坊老爷爷手持蓝白面具；静态终态",
+    "original_path": "原图/7b826c3d9348fbecbf3f6605484f1b7d.png",
+    "renamed_path": "原图/page-22-A-blue-mask-form.png",
+    "sha256": "a60021e18d07ed17ce5f242f252450888b6fbf41fa024b9e5d4f017c2d15c8b0"
+  },
+  {
+    "kind": "原图",
+    "page": "14",
+    "scene": "星夜渡河",
+    "original_path": "原图/7e174508753da085bc6aeb3ec22bd107.png",
+    "renamed_path": "原图/page-14-river-crossing.png",
+    "sha256": "a7f5d59f3d09c9db4fc26e4eaa8c1252c7ad612462097611e19c408ca484032f"
+  },
+  {
+    "kind": "原图",
+    "page": "01",
+    "scene": "工坊苏醒",
+    "original_path": "原图/88cf974bdb3e1f878fbf7a95a2f02176.png",
+    "renamed_path": "原图/page-01-awakening.png",
+    "sha256": "216701f4cd7c8ab228d0f794063451cbffbef685a2bd5788466d954b9bee58aa"
+  },
+  {
+    "kind": "原图",
+    "page": "16",
+    "scene": "四位朋友的期许",
+    "original_path": "原图/8e6de9b8c9bca6e98da4b80200801c55.png",
+    "renamed_path": "原图/page-16-friends-memory.png",
+    "sha256": "5b87b963f29015c35bff5ee8f748e4426fa25422b285955f23a589a0be2f145a"
+  },
+  {
+    "kind": "原图",
+    "page": "09",
+    "scene": "发现第一道纹样",
+    "original_path": "原图/a72391c2b25070217197c38198df5da3.png",
+    "renamed_path": "原图/page-09-first-pattern.png",
+    "sha256": "13746bfb1e88ab81bdbefb8466d0a507dc9509546b870616fd4a2f58fc01a390"
+  },
+  {
+    "kind": "原图",
+    "page": "19",
+    "scene": "山顶倒影",
+    "original_path": "原图/be6c606a19aa60b3fa7b6c28b0b2b5cb.png",
+    "renamed_path": "原图/page-19-reflection.png",
+    "sha256": "d52299e2d3369181ae3d3820ceecd4210add198863556b69eba5f0c5e87c53b7"
+  },
+  {
+    "kind": "原图",
+    "page": "11",
+    "scene": "秦童逗乐",
+    "original_path": "原图/c259d1a6987c6c5a40473d624a43e5e6.png",
+    "renamed_path": "原图/page-11-qintong-fun.png",
+    "sha256": "0f577907ea2ef0e1bed80dba7c4587b1c05398118009eac44a8f670c0c47c47f"
+  },
+  {
+    "kind": "原图",
+    "page": "20",
+    "scene": "邀请选择脸谱",
+    "original_path": "原图/caef62d0083242479c3c9d141874a2f2.png",
+    "renamed_path": "原图/page-20-mask-choice.png",
+    "sha256": "e6632a16083f050939ad38880d82d2e424614c48f69ea2e9f330dc86f349500b"
+  },
+  {
+    "kind": "原图",
+    "page": "05",
+    "scene": "太婆递鞋",
+    "original_path": "原图/d38f93defd96a6884f4774b715012a98.png",
+    "renamed_path": "原图/page-05-shoes-gift.png",
+    "sha256": "45d3b511b60a7ec7fdf0c8ec045ee70076aedb6195ecda5f0190c49e233f2f12"
+  },
+  {
+    "kind": "原图",
+    "page": "08",
+    "scene": "将军开路",
+    "original_path": "原图/d823591d99f9f5b3708df18e231a7ab7.png",
+    "renamed_path": "原图/page-08-clear-path.png",
+    "sha256": "78ad1b7184663ea2f118ab3852252b1d71fdf43ef7a5aabbb5e2175bd9712fe2"
+  },
+  {
+    "kind": "原图",
+    "page": "21C",
+    "scene": "红金脸谱山顶展示",
+    "original_path": "原图/d862730d4930d4589212190ea6c8ab9b.png",
+    "renamed_path": "原图/page-21-C-red-reveal.png",
+    "sha256": "ee7ad20f8b73fc2ec2c4aefc5656d3b78108a24f34ed96cc51c9c4b974ef6404"
+  },
+  {
+    "kind": "原图",
+    "page": "10",
+    "scene": "遇见秦童",
+    "original_path": "原图/db28e88bd7c22d976ed0ae1bc52e573a.png",
+    "renamed_path": "原图/page-10-qintong.png",
+    "sha256": "4751954e91f8073e89a5dd7ef910dc902a32e2e28ce43cde9eb2c22b9710b260"
+  },
+  {
+    "kind": "原图",
+    "page": "25C",
+    "scene": "红金面具登台",
+    "original_path": "原图/e57c79b56e121fc1706d197e29941b2b.png",
+    "renamed_path": "原图/page-25-C-red-stage.png",
+    "sha256": "8cc56d81aae07582f263a602e46941c0d5b013b75dec6760bcd1700c816590fc"
+  },
+  {
+    "kind": "原图",
+    "page": "23C",
+    "scene": "红金面具交接",
+    "original_path": "原图/e6d991726d6018852749ec3a3c024a8b.png",
+    "renamed_path": "原图/page-23-C-red-handover.png",
+    "sha256": "7e8749878b9623af3d7b2047fc4835304128710739e46b7ea1346a64d9d84a15"
+  },
+  {
+    "kind": "原图",
+    "page": "22B",
+    "scene": "工坊老爷爷手持青黑面具；静态终态",
+    "original_path": "原图/ea2d7d8db5dd1b9de65219eea383a4db.png",
+    "renamed_path": "原图/page-22-B-black-mask-form.png",
+    "sha256": "c84471fe96070864d0e5d00f7a2501df8fcb18d20fa0e8f32e84b897db68a9ee"
+  },
+  {
+    "kind": "原图",
+    "page": "12",
+    "scene": "桥边笑脸特写；作者确认用于发现成长纹样",
+    "original_path": "原图/eb69d980c209a82e0539315c9c0ff1ab.png",
+    "renamed_path": "原图/page-12-pattern-growth.png",
+    "sha256": "3cd0fd6d3af2830523eda34a6f32f89135a512c0b974ab795802e7b0f2b7379c"
+  },
+  {
+    "kind": "原图",
+    "page": "22C",
+    "scene": "工坊老爷爷手持红金面具；静态终态",
+    "original_path": "原图/edffccc5f5b4b440c4b57f42459633a4.png",
+    "renamed_path": "原图/page-22-C-red-mask-form.png",
+    "sha256": "7e3bb08ee8c0a045aff2b2c921a11419c9f9b4446f35e5af095ee6f1f4e4cf3a"
+  },
+  {
+    "kind": "原图",
+    "page": "23A",
+    "scene": "蓝白面具交接",
+    "original_path": "原图/f51e73b9fae69c289f250b24c16a4497.png",
+    "renamed_path": "原图/page-23-A-blue-handover.png",
+    "sha256": "d7695450a4f9feb178fd747304b056f389c8453444a55f046798f8f589cd5094"
+  },
+  {
+    "kind": "原图",
+    "page": "20-reference",
+    "scene": "三张面具合图参考，非三个独立透明按钮",
+    "original_path": "原图/f64d99dc79ee2dd6ad4f80255024f97a.jpg",
+    "renamed_path": "原图/page-20-mask-options-reference.jpg",
+    "sha256": "63936a3d9d054bf6103b60efccc5a6a64ab9ce122628afed0e95f0540c17d0ab"
+  },
+  {
+    "kind": "对应视频",
+    "page": "15",
+    "scene": "船上纹样特写；画面未明确呈现可点击倒影",
+    "original_path": "对应视频/01e664d95e2d3a1fb14c36990aa3fb96.mp4",
+    "renamed_path": "对应视频/page-15-pattern-detail.mp4",
+    "sha256": "0e9e3b022d2abe2883debd71c880baf2deaaad400e8a40c8ffc506eaaa592bb7"
+  },
+  {
+    "kind": "对应视频",
+    "page": "24A",
+    "scene": "戴蓝白面具转圈",
+    "original_path": "对应视频/05d6dad69f6ab5b6dd0c1c3de7e10167.mp4",
+    "renamed_path": "对应视频/page-24-A-blue-dance.mp4",
+    "sha256": "4d96ae503be106197dc51c62b33170d70d05b420fd0892830ae8b4e48ad6669d"
+  },
+  {
+    "kind": "对应视频",
+    "page": "23C",
+    "scene": "红金面具交接",
+    "original_path": "对应视频/09ee7e58258ad4d84ed27d72eb41902b.mp4",
+    "renamed_path": "对应视频/page-23-C-red-handover.mp4",
+    "sha256": "a3270e5174dc27150770f34dd771acfef2f34e911ce1c59256bc8212bd71f450"
+  },
+  {
+    "kind": "对应视频",
+    "page": "11",
+    "scene": "秦童逗乐",
+    "original_path": "对应视频/14c1e4ced9c8b44b41f49e60adfb8910.mp4",
+    "renamed_path": "对应视频/page-11-qintong-fun.mp4",
+    "sha256": "c85e1af812407954e83ba95f9e0a4b8570b21d6b67bd282ddd59e907341c3736"
+  },
+  {
+    "kind": "对应视频",
+    "page": "22C",
+    "scene": "工坊老爷爷手持红金面具；静态终态",
+    "original_path": "对应视频/174cd01a3809b326e1c63f3fa5ff5422.mp4",
+    "renamed_path": "对应视频/page-22-C-red-mask-form.mp4",
+    "sha256": "cde705ac18d78ca39ad0d8484602121d06bd55246d214bc46920cc5cf1396f1e"
+  },
+  {
+    "kind": "对应视频",
+    "page": "25B",
+    "scene": "青黑面具登台",
+    "original_path": "对应视频/1e19fd10083e4f9de3084df4e11a4cb2.mp4",
+    "renamed_path": "对应视频/page-25-B-black-stage.mp4",
+    "sha256": "ab4019c6ca9b9dc20ac75bf6bdfb57ad09356374c7adc357db3666cdc25eac8a"
+  },
+  {
+    "kind": "对应视频",
+    "page": "22B",
+    "scene": "工坊老爷爷手持青黑面具；静态终态",
+    "original_path": "对应视频/2136e1792abfe2ef120ccea488192662.mp4",
+    "renamed_path": "对应视频/page-22-B-black-mask-form.mp4",
+    "sha256": "b72c6d936993a87bce1a36e2a5b0e9ff18d61318e1d5ea6875fa87698f6a9e0b"
+  },
+  {
+    "kind": "对应视频",
+    "page": "26",
+    "scene": "回到工坊；构图与开场不同，空位需明确定位",
+    "original_path": "对应视频/2f37e66fced3f509c5629276cd812fa0.mp4",
+    "renamed_path": "对应视频/page-26-workshop-return.mp4",
+    "sha256": "db1df02846f691be3f90544e5f1524ca05574467b853d0061debaad31bd66356"
+  },
+  {
+    "kind": "对应视频",
+    "page": "19",
+    "scene": "山顶倒影",
+    "original_path": "对应视频/3067cfb44cb85a47145f61d0ea2d1b22.mp4",
+    "renamed_path": "对应视频/page-19-reflection.mp4",
+    "sha256": "c3e125d7550f3801f24f8dff9f344d74a8de1a4de2db557f7a56bb3d28ca4ba0"
+  },
+  {
+    "kind": "对应视频",
+    "page": "07",
+    "scene": "遇见开路将军",
+    "original_path": "对应视频/31d2aeb7b2ff3b0f31b4ac87b1c79feb.mp4",
+    "renamed_path": "对应视频/page-07-general.mp4",
+    "sha256": "111dc2cae9b97a37217bcae264afd086703cbd873859274a414c1a2c8854d76c"
+  },
+  {
+    "kind": "对应视频",
+    "page": "02",
+    "scene": "工坊人形；静态人形，不代表完整变身过程",
+    "original_path": "对应视频/4abef1bcc45a23f834bb84acec6b2913.mp4",
+    "renamed_path": "对应视频/page-02-human-form.mp4",
+    "sha256": "eca9f41f187f858aca594f2b0bb73fbb2e7eae236dc40238d07d8756a18db9ad"
+  },
+  {
+    "kind": "对应视频",
+    "page": "22A",
+    "scene": "工坊老爷爷手持蓝白面具；静态终态",
+    "original_path": "对应视频/532ea9d0b889642835a381a3e9e77314.mp4",
+    "renamed_path": "对应视频/page-22-A-blue-mask-form.mp4",
+    "sha256": "b3dbf1d10ee2910b5a0f2953f7abba81d5dd8c009888cb273f8437a372ab68fb"
+  },
+  {
+    "kind": "对应视频",
+    "page": "24C",
+    "scene": "戴红金面具转圈",
+    "original_path": "对应视频/5342f4598108771591bc3d5dbe951bc8.mp4",
+    "renamed_path": "对应视频/page-24-C-red-dance.mp4",
+    "sha256": "51c832fb2f2acfd33d5a0fb30afee4ccd5f183c9990ad75956be034c69a21b47"
+  },
+  {
+    "kind": "对应视频",
+    "page": "25A",
+    "scene": "蓝白面具登台",
+    "original_path": "对应视频/5805afad44ac2884dbcac9efa5416744.mp4",
+    "renamed_path": "对应视频/page-25-A-blue-stage.mp4",
+    "sha256": "e304636eb7ea4d6ba082269b2479a5b9a2bfd1d548c8e5b12b738e44d4abd67e"
+  },
+  {
+    "kind": "对应视频",
+    "page": "21A",
+    "scene": "蓝白脸谱山顶展示",
+    "original_path": "对应视频/689d00f447c9eac9442794584dfab9ba.mp4",
+    "renamed_path": "对应视频/page-21-A-blue-reveal.mp4",
+    "sha256": "e7fb75a4b64a1748543c0ce3c96cb241d3236fcbe65a601cedd54b963b4a19f0"
+  },
+  {
+    "kind": "对应视频",
+    "page": "09",
+    "scene": "发现第一道纹样",
+    "original_path": "对应视频/6e6e5aa6b84172ce5e1c8c8de09f18f4.mp4",
+    "renamed_path": "对应视频/page-09-first-pattern.mp4",
+    "sha256": "e8016b4754a209c46a1389484927cdb569a138928a9ca24029d1156c6d4c828e"
+  },
+  {
+    "kind": "对应视频",
+    "page": "23A",
+    "scene": "蓝白面具交接",
+    "original_path": "对应视频/800ea53393fccd63f54acd0d832b6689.mp4",
+    "renamed_path": "对应视频/page-23-A-blue-handover.mp4",
+    "sha256": "1f0937cbe6b3957c8fe1c53532f1766891f85389b9383eb17728f6489ddefbe1"
+  },
+  {
+    "kind": "对应视频",
+    "page": "23B",
+    "scene": "青黑面具交接",
+    "original_path": "对应视频/85a6065bdff82e552a939915b02222fd.mp4",
+    "renamed_path": "对应视频/page-23-B-black-handover.mp4",
+    "sha256": "429de5b9e8e42db5f655215643d4e6cb58374f523c5ecf5e88c4d1951cbcb1dd"
+  },
+  {
+    "kind": "对应视频",
+    "page": "12",
+    "scene": "桥边笑脸特写；作者确认用于发现成长纹样",
+    "original_path": "对应视频/8f2ff6fd86a0860adf70767afa00c67b.mp4",
+    "renamed_path": "对应视频/page-12-pattern-growth.mp4",
+    "sha256": "285386f2a4b71664936dba2130332a0429712b4058e34452b3274864af7b7279"
+  },
+  {
+    "kind": "对应视频",
+    "page": "21B",
+    "scene": "青黑脸谱山顶展示",
+    "original_path": "对应视频/8fdd52ccf3a67a4c67243c61527f2576.mp4",
+    "renamed_path": "对应视频/page-21-B-black-reveal.mp4",
+    "sha256": "3af9c003e9f917304a6753a518d60317546d87bfec25a7e3670d8b6291cb4c9d"
+  },
+  {
+    "kind": "对应视频",
+    "page": "04",
+    "scene": "遇见唐氏太婆",
+    "original_path": "对应视频/90dcf7df4af042fcbbd3201f29a169a9.mp4",
+    "renamed_path": "对应视频/page-04-grandma.mp4",
+    "sha256": "beba0645632db8ec9d3a35a6baf61f6696c5d65b849201028505bdb6c992e23d"
+  },
+  {
+    "kind": "对应视频",
+    "page": "13",
+    "scene": "遇见先锋小姐",
+    "original_path": "对应视频/9499fb70e4b0c5653f01abb47d499138.mp4",
+    "renamed_path": "对应视频/page-13-pioneer.mp4",
+    "sha256": "d670e2d67b878b08ff162cc063145c73990a59a4388d104d84f5d629e1b859c7"
+  },
+  {
+    "kind": "对应视频",
+    "page": "20",
+    "scene": "邀请选择脸谱",
+    "original_path": "对应视频/a498add20fc881ca5325dff6c2b9bd29.mp4",
+    "renamed_path": "对应视频/page-20-mask-choice.mp4",
+    "sha256": "6723d4067ead34c9eebb76f9c7301bfb58f4838ce19b0fc6dc467bab866b5a71"
+  },
+  {
+    "kind": "对应视频",
+    "page": "03",
+    "scene": "出发",
+    "original_path": "对应视频/a8263f4133b28c8ba87dde7df5a65c36.mp4",
+    "renamed_path": "对应视频/page-03-departure.mp4",
+    "sha256": "a2504f6baeb8a30d10230cedc52dec882db8a09a6acbaac9edb0590374f9fe5c"
+  },
+  {
+    "kind": "对应视频",
+    "page": "16",
+    "scene": "四位朋友的期许",
+    "original_path": "对应视频/a8e0e7b354883665d56f349b936a528b.mp4",
+    "renamed_path": "对应视频/page-16-friends-memory.mp4",
+    "sha256": "8adb2061892e0a8db662395a4e297b52fea007bfdfdf1ba5dca150417cbbed0c"
+  },
+  {
+    "kind": "对应视频",
+    "page": "10",
+    "scene": "遇见秦童",
+    "original_path": "对应视频/b1cf28e3a2480501e1b841a3607f1c57.mp4",
+    "renamed_path": "对应视频/page-10-qintong.mp4",
+    "sha256": "30962295d17aa8f629e05e1cad480180fac5e1e06d8b548075b57b8830be1892"
+  },
+  {
+    "kind": "对应视频",
+    "page": "01",
+    "scene": "工坊苏醒",
+    "original_path": "对应视频/b511dc25ff4f7f4ac78bf5b0101ff379.mp4",
+    "renamed_path": "对应视频/page-01-awakening.mp4",
+    "sha256": "ed76859317e658de8e7163a67630e8cc08fed80a3dbbc0a4c4675a8b9162231f"
+  },
+  {
+    "kind": "对应视频",
+    "page": "06",
+    "scene": "穿上新鞋",
+    "original_path": "对应视频/ba1243003a9fb8cc98370f6d84953ced.mp4",
+    "renamed_path": "对应视频/page-06-new-shoes.mp4",
+    "sha256": "1203a3200875e13f4878276b0697e3ff710c838fc7b6e7cb7ef55f7326806cfc"
+  },
+  {
+    "kind": "对应视频",
+    "page": "17",
+    "scene": "发现被困松鼠",
+    "original_path": "对应视频/c92fb153900d9023255a4c3f047a9522.mp4",
+    "renamed_path": "对应视频/page-17-squirrel-trouble.mp4",
+    "sha256": "439061c0b3504717e466070e163764a414ad0078343df9a9de773a666b9db7f8"
+  },
+  {
+    "kind": "对应视频",
+    "page": "18",
+    "scene": "树枝救松鼠",
+    "original_path": "对应视频/cd7728d6db17d03c4d3fb2953070d155.mp4",
+    "renamed_path": "对应视频/page-18-squirrel-rescue.mp4",
+    "sha256": "62a160be83e3befb014e25a1b13a34f7bd4920ea5b6c1e780dfb634d7583a3e2"
+  },
+  {
+    "kind": "对应视频",
+    "page": "25C",
+    "scene": "红金面具登台",
+    "original_path": "对应视频/d2429435544a3b1a2e61befe7f668800.mp4",
+    "renamed_path": "对应视频/page-25-C-red-stage.mp4",
+    "sha256": "d4be8d1c2ad83619ebc262ea01adf78c2b6c87e23e2c3b9a461c249cc1bb75a9"
+  },
+  {
+    "kind": "对应视频",
+    "page": "24B",
+    "scene": "戴青黑面具转圈",
+    "original_path": "对应视频/da448ba51d3b6b0aeed98a8017757c91.mp4",
+    "renamed_path": "对应视频/page-24-B-black-dance.mp4",
+    "sha256": "8736bb395d26e0dec2f4648e54c8856c21867868dc17ba3642928de032133402"
+  },
+  {
+    "kind": "对应视频",
+    "page": "05",
+    "scene": "太婆递鞋",
+    "original_path": "对应视频/da5201e64c0c8c78a70b856a0ae091df.mp4",
+    "renamed_path": "对应视频/page-05-shoes-gift.mp4",
+    "sha256": "ef236db62cee6f805c8ada61f69a74a3bdd01040e28e6c4beb179e1d7efe6e38"
+  },
+  {
+    "kind": "对应视频",
+    "page": "21C",
+    "scene": "红金脸谱山顶展示",
+    "original_path": "对应视频/e7b05a20d70b3d0a5f785a6b43531cfb.mp4",
+    "renamed_path": "对应视频/page-21-C-red-reveal.mp4",
+    "sha256": "cca021f24300da6b1d929b7f8156b89284e21c071a710eab1e5ed6231d9cfca6"
+  },
+  {
+    "kind": "对应视频",
+    "page": "14",
+    "scene": "星夜渡河",
+    "original_path": "对应视频/eef1aeac6caa9ceb75d0d499b43c7932.mp4",
+    "renamed_path": "对应视频/page-14-river-crossing.mp4",
+    "sha256": "2e7dfdae1a88239fc07b2989028a80a52272e2023c25feecc6e90e590af326ca"
+  },
+  {
+    "kind": "对应视频",
+    "page": "08",
+    "scene": "将军开路",
+    "original_path": "对应视频/f6e3056f3e5c9fbfb7c58b2219c4414b.mp4",
+    "renamed_path": "对应视频/page-08-clear-path.mp4",
+    "sha256": "311a20e5fc0419404b80c1cea39f97ced21ccb8846e88fa94ba993aa431f1f35"
+  }
+]

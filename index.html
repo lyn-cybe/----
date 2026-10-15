@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f3ea">
+  <meta name="description" content="陪小傩面走过山水，认识朋友，找到自己的样子。一本可以翻阅的数字绘本。">
+  <title>小傩面找身份 · 数字绘本</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect rx='18' width='64' height='64' fill='%23546545'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='38' fill='%23faf5e9'%3E傩%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./lib/page-flip.browser.js"></script>
+  <script defer src="./story.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="小傩面找身份，回到第一页">
+      <span class="brand-seal" aria-hidden="true">傩</span>
+      <span><strong>小傩面找身份</strong><small>一场寻找自己的小小旅行</small></span>
+    </a>
+    <div class="header-actions">
+      <span class="edition">数字绘本 · 阅读版</span>
+      <button class="button button-light" id="catalog-open" aria-haspopup="dialog"><span aria-hidden="true">☷</span> 目录</button>
+    </div>
+  </header>
+
+  <main id="reader">
+    <div class="chapter-line"><span class="chapter-dot"></span><span id="chapter-label">序章 · 工坊里的清晨</span><span class="chapter-rule"></span><span id="top-page">01 / 26</span></div>
+    <section class="book-shell" aria-label="绘本画面">
+      <div id="book" aria-label="可翻页绘本"></div>
+      <div class="picture-badge" id="picture-badge">01</div>
+      <div id="playback-status" role="status" class="playback-status" hidden></div>
+      <button id="video-fallback" class="video-fallback" hidden>点击播放这一页</button>
+    </section>
+
+    <section class="reading-caption" aria-label="本页文字">
+      <div class="caption-heading"><span id="scene-tag">故事的开始</span><h1 id="scene-title">清晨，小傩面醒了</h1></div>
+      <p id="scene-text"></p>
+    </section>
+
+    <div class="reading-controls">
+      <button class="button button-nav" id="previous" aria-label="上一页"><span aria-hidden="true">←</span><span>上一页</span></button>
+      <div class="progress-wrap">
+        <label class="sr-only" for="page-progress">选择页码</label>
+        <input id="page-progress" type="range" min="1" max="26" value="1" aria-valuetext="第1页，共26页">
+        <span class="progress-text"><strong id="current-page">01</strong><span> / 26</span></span>
+      </div>
+      <button class="button button-nav button-next" id="next"><span>下一页</span><span aria-hidden="true">→</span></button>
+    </div>
+
+    <div class="reader-options">
+      <div class="motion-controls">
+        <button class="option-button" id="motion-toggle" aria-pressed="false"><span class="motion-icon" aria-hidden="true">▷</span><span id="motion-label">让画面动起来</span></button>
+        <button class="option-button" id="replay" hidden><span aria-hidden="true">↻</span> 重播本页</button>
+      </div>
+      <label class="ending-select">结尾外观 <select id="ending" aria-label="选择结尾外观"><option value="A">蓝白 · 温柔</option><option value="B">青黑 · 勇敢</option><option value="C">红金 · 快乐</option></select></label>
+    </div>
+    <p class="reading-hint">用左右方向键或翻页按钮，慢慢读下去。<span>画面视频暂时静音。</span></p>
+  </main>
+
+  <footer class="site-footer"><span>寻找自我 · 传承有我</span><span>从一张小小的面具，认识一个温暖的世界。</span></footer>
+
+  <dialog id="catalog" aria-labelledby="catalog-title">
+    <div class="catalog-header"><div><small>翻开旅途中的一页</small><h2 id="catalog-title">故事目录</h2></div><button class="button close-button" id="catalog-close" aria-label="关闭目录">×</button></div>
+    <nav id="catalog-list" aria-label="跳转到故事页面"></nav>
+    <p class="catalog-note">共 26 页。三种结尾外观可以在阅读页下方切换。</p>
+  </dialog>
+  <noscript>请启用浏览器的 JavaScript，以阅读这本数字绘本。</noscript>
+</body>
+</html>

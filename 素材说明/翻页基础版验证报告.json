@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "browser": "Chromium",
+  "story_pages": 26,
+  "scene_pairs": 36,
+  "checks": [
+    "first-page rendering and navigation boundary",
+    "animated forward/backward flip and keyboard navigation",
+    "muted video playback, pause during flip, and only current-page playback",
+    "catalog jump, branch consistency, and switching back to still mode",
+    "all 36 image/video pairs resolve",
+    "last-page boundary, persisted progress, return to start",
+    "mobile single-page layout, tap controls, and touch-gesture handlers",
+    "built distribution served without development tools: image/video playback and page turn"
+  ],
+  "page_errors": [],
+  "http_errors": [],
+  "limitations": [
+    "Cloud Chromium policy blocks file:// navigation (ERR_BLOCKED_BY_ADMINISTRATOR); direct double-click not validated. Built distribution verified over HTTP.",
+    "Mobile layout tested in emulation; real iPad, Safari and WeChat not tested."
+  ]
+}
